@@ -1,49 +1,46 @@
-<h2 align="left">Hi 👋! My name is Jonathan Osei Kwaku and I'm a Data science and Machine enthusiat. Also a computer engineering student at University of Energy and Natural Resources- Sunyani, from Ghana,Kumasi</h2>
+# Hello, World! 👋
 
-###
+## Who Am I?
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm Jonathan Osei Kwaku, an upcoming data scientist with a passion for building innovative solutions and solving complex problems. I thrive on turning ideas into reality through code, and I'm constantly seeking new challenges to push my boundaries and grow as a developer.
 
-###
+When I'm not coding, you'll find me either glued to books (especially Math books) or eating.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Expertise
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" align="right" width="380">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Languages:** Python, C++, R.
 
-###
+**Web Development:** HTML, CSS.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Databases:** [List databases you've worked with, e.g., MongoDB, MySQL, PostgreSQL, etc.]
 
-###
+**Tools & Frameworks:** Git, Annaconda[Data Science tool].
 
-<br clear="both">
+**Other Skills:** [List any other relevant skills, e.g., data analysis, machine learning, UI/UX design, etc.]
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## GitHub Contributions
 
-###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
+As you can see from my GitHub streak, I'm an active contributor to the open-source community. I believe in the power of collaboration and continuously strive to learn and grow through my contributions.
+
+## Notable Projects
+
+Here are some of the projects I'm particularly proud of:
+
+- [Project 1 Name](https://github.com/your-username/project1-repo): [Brief description of the project, its purpose, and key features]
+- [Project 2 Name](https://github.com/your-username/project2-repo): [Brief description of the project, its purpose, and key features]
+- [Project 3 Name](https://github.com/your-username/project3-repo): [Brief description of the project, its purpose, and key features]
+
+## Let's Connect!
+
+I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Feel free to reach out to me:
+
+- **Email:** kwakujohnathan@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/your-username/]
+- **Twitter:** [https://twitter.com/your-username]
+- **Personal Website:** [https://your-personal-website.com]
+
+Let's build something amazing together! 🚀

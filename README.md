@@ -39,8 +39,8 @@ Here are some of the projects I'm particularly proud of:
 I'm always excited to collaborate on new projects, discuss ideas, or simply connect with fellow tech enthusiasts. Feel free to reach out to me:
 
 - **Email:** kwakujohnathan@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/your-username/]
-- **Twitter:** [https://twitter.com/your-username]
+- **LinkedIn:** https://www.linkedin.com/in/johnathan-kwaku-25a96b306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Twitter:** https://x.com/K34265Kwaku?t=2lSvoJkflC1C4cLCQBOOSw&s=09
 - **Personal Website:** [https://your-personal-website.com]
 
 Let's build something amazing together! 🚀

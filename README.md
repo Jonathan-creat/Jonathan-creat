@@ -2,9 +2,9 @@
 
 ## Who Am I?
 
-I'm Jonathan Osei Kwaku, an upcoming data scientist with a passion for building innovative solutions and solving complex problems. I thrive on turning ideas into reality through code, and I'm constantly seeking new challenges to push my boundaries and grow as a developer.
+I'm Jonathan Osei Kwaku, an upcoming Machine Learning Engineer with a passion for building innovative solutions and solving complex problems. I thrive on turning ideas into reality through code, and I'm constantly seeking new challenges to push my boundaries and grow as a developer.
 
-When I'm not coding, you'll find me either glued to books (especially Math books) or eating.
+When I'm not coding, you'll find me eating.
 
 ## Skills & Expertise
 
